@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Codingclub/.idea/Codingclub.iml" filepath="$PROJECT_DIR$/../Codingclub/.idea/Codingclub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/task.iml" filepath="$PROJECT_DIR$/.idea/task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../website1/.idea/website1.iml" filepath="$PROJECT_DIR$/../website1/.idea/website1.iml" />
+    </modules>
+  </component>
+</project>

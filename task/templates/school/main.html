@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% for class in classes %}
+    <b>Class - {{ class.class_name }}</b> <br>
+    {% for stud in class.student_set.all %}
+    {{ stud.stud_name }} ------ {{ stud.score }} <br>
+
+    {% endfor %}<br><br>
+{% endfor %}<br><br>
+<a href="{% url 'school:grace' %}">Grace</a>
+</body>
+</html>
