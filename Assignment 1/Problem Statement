@@ -1,0 +1,32 @@
+
+
+The following task would test your concepts and their applications in python. Please do the task seriously.
+
+
+Your task is to make a WEB CRAWLER.If you still don't know what it is then search it on net.
+
+So you have to crawl the following website - nikskhandelwal98.pythonanywhere.com
+
+You have to write a python script to display the hints of the first n questions in the site. The value of n should be taken from the user after the script is run.
+
+The following is a sample picture of how your terminal should like when your python file id run - 
+
+
+
+python webcrawler.py                  (Used to run the webcrawler.py python file)
+Enter no. of questions -              ( A promt asking for no. of questions should be displayed )
+2                                     (My input)
+1. The man who invented dynamite      (output of your program - Hints of the first two questions are displayed)
+2. Barcelona                         
+
+
+REFERENCES-
+New Boston tutorials on Python have some videos in which they tell how to make a web crawler. Refer to that .
+You would hv to look for authentication techniques yourself :)
+
+
+DEADLINE - 
+
+16th October - Please do complete the task till 16 as after that you will be given your first assignment in django
+				which you would have to complete in your diwali week itself. The task would be a really exciting one and you would learn a lot in django by just doing the task
+
