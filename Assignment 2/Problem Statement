@@ -1,0 +1,24 @@
+
+This is your first task in django and it requires good understanding of views and their correlation with urls.
+
+So you have to make an online version of the Outstation form that is required to leave the campus something similar to the SWD LMS app just in form of a website.The website would function in the following way :-
+
+So when the website is opened u get a user login form and an option to login through bits mail. So the students would click login through bits mail and the chief warden would have specific login credentials and he can login after entering his username and password.
+
+Now when the students login, they have two options to view status  (accepted, not accepted yet) of previous leave requests and to file a new request which would ask them to enter their name, hostel, leave dates etc....
+
+When the chief warden logs in he would see all the leave applications and would have an option to Sanction or Decline leave.
+If the chief warden Sanctions a leave then the status of the leave would be made "accepted" in the previous leave requests section of the respective student's login page as was mentioned above. 
+
+CONCEPTS INVOLVED - 
+Role Based Access Control - diff users can access only diff section of the same website even after logging through the same login form.
+
+
+FROM THE HISTORY BOOK-
+This task was given to me as recruitment task for ACM in second sem :p
+
+
+DEADLINE - 
+31 October 2017 (non negotiable this time due to your last task)
+If you are unable to do it till then without a very valid reason then hope to see you again in recruitments next semester.
+
